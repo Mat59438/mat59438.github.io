@@ -1,0 +1,71 @@
+.flex-contaioner {
+    display:flex
+}
+
+.navgationbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #202020;
+    display: flex;
+    justify-content: center;
+}
+
+.navgationbar li a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navgationbar li a:hover {
+    background-color: #111111;
+}
+
+.contentboxleft {
+    display: flex;
+    justify-content: left;
+}
+
+.contentboxright {
+    display: flex;
+    justify-content: right;
+}
+
+.contentboxcenter {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    padding: 20px;
+
+}
+
+body {
+    background-color: #333333;
+}
+
+p {
+    color: white;
+    text-indent: 20px;
+    text-align: justify;
+}
+
+h1 {
+    color:darkturquoise;
+    text-align: center;
+}
+
+h2 {
+    color: darkturquoise;
+    text-align: center;
+}
+
+h3 {
+    color: darkturquoise;
+    text-align: left;
+}
+
+
+
