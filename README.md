@@ -1,1 +1,1 @@
-test(./contact.html)
+[test](./contact.html)
